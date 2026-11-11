@@ -1,0 +1,6 @@
+{
+  "name": "Timestamp Camera",
+  "description": "Professional web-based timestamp camera with real-time GPS location, custom watermarks, photo and video capture.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
